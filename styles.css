@@ -107,7 +107,7 @@ h3 {
 .flexItem p {
   position: absolute;
   color: #ffffff;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: #000000;
   margin-top: 138px;
 }
 footer{
