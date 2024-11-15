@@ -117,6 +117,9 @@ footer{
 .copyright{
     text-align:center;
 }
+.hideheader{
+  display:none;
+}
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
 /*-------------------- MEDIA QUERY (medium) --------------------------------*/
 @media screen and (min-width: 800px) {
